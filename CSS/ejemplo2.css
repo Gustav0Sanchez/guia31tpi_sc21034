@@ -1,0 +1,26 @@
+/* ejemplo1.css SC21034 */
+
+pais {
+	background-color:#55D0E6; /* Cielo claro o Turquesa Suave*/
+}
+
+departamento {
+	background-color:#8E44AD; /* Morado intenso */
+	display:block;
+}
+
+cabecera {
+	color:white; 
+	display:block;
+} 
+
+habitantes {
+	color:white; 
+	display:block;
+}
+
+altura {
+	color:white;
+	font-size:0.5cm; 
+	display:block;
+}

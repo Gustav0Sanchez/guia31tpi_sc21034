@@ -1,0 +1,36 @@
+{
+	"pais": {
+		"idiomas": {
+			"oficial": "Español",
+			"autoctono": "Nahualt",
+			"segundo": "Ingles"
+		},
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"areaTerritorial": {
+					"_unidad": "Km^2",
+					"__text": "15,000"
+				},
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Zacatecoluca",
+				"habitantes": "343,323",
+				"altura": "220 MSNM",
+				"areaTerritorial": {
+					"_unidad": "Km^2",
+					"__text": "1,223"
+				},
+				"_id": "2",
+				"_nombre": "La Paz"
+			}
+		],
+		"_nombre": "El Salvador",
+		"_moneda": "Dolar",
+		"_codigoTel": "503"
+	}
+}

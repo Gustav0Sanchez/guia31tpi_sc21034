@@ -1,0 +1,142 @@
+@charset "UTF-8";
+/* CSS Document sc21034 */
+
+*{
+	margin:0;
+	padding:0;
+}
+
+body {
+	background:#2A3B55; /* Azul oscuro con un tono morado */
+	font-family:Arial;
+	color:#F3E9D2; /* Blanco cremoso */
+	line-height:1.3em;
+}
+
+.contenedor{
+	width:70%;
+	max-width:1000px;
+	margin:10px auto;
+	background-color:#3C4A63; /* Azul-gris oscuro */
+	padding:10px;
+}
+
+header{
+	background-color:#3C4A63; /* Azul-gris oscuro */
+	width:100%;
+	font-family:Gotham, Helvetica;
+	padding-top:1em;
+	padding-bottom:1em;
+}
+
+h1{
+	font-size:1.4em;
+	text-align:center;
+	color:#F4D06F; /* Dorado suave */
+}
+
+h2{
+	font-size:1.1em;
+	text-align:center;
+	margin-top:20px;
+	color:#E9AFA3; /* Rosa tenue */
+}	
+
+article{
+	padding:20px 0;
+	/*border-bottom: dotted 1px #888282;*/
+}
+
+article h2{
+	float:left;	
+	border-left:#58A27C 3px solid; /* Verde esmeralda */
+	text-transform:uppercase;
+	font-size:1em;
+	line-height:1.3em;/*espacio entre lineas*/
+	margin-top:1px;
+	padding-bottom:1px;
+	color:#F3E9D2; /* Blanco cremoso */
+}
+
+nav{
+	width:100%;
+	margin:15px 0;
+	padding:15px 0;
+	clear:both;/*baja el texto si hay float*/
+}
+
+nav ul{
+	width:100%;
+	list-style:none;
+	margin-bottom:40px;
+}
+
+nav ul li{
+	float:left;
+	width:25%;
+	background:#5C6270; /* Gris oscuro con un toque morado */
+	text-align:center;
+	border-right:1px solid #F3E9D2; /* Blanco cremoso */
+	box-sizing:border-box;/*para ajustar y no baje el li*/
+}
+
+nav ul li.dosBlock{
+	width:50%;
+}
+
+nav ul li.seisBlock{
+	width:16.666%;
+}
+
+nav ul li.ultima{
+	border-right:none;
+}
+
+nav ul li a:link, nav ul li a:visited{
+	display:block;
+	padding: 10px 0;
+	color:#F3E9D2; /* Blanco cremoso */
+	text-decoration:none;
+}
+
+nav ul li:hover, nav ul li a:hover{
+	color:#5C6270; /* Gris oscuro */
+	background:#F4D06F; /* Dorado suave */
+}
+
+.principal{
+	text-align:center;
+	margin:5px;
+	/*font-weight:bold;
+	border-style:none solid none solid;
+  border-color:#EABE3F;
+	border-radius:5px;*/
+}
+
+footer {
+	width:100%;
+	margin:1px 0;
+	padding:2em 0;
+	background-color:#5C6270; /* Gris oscuro */
+	color:#F3E9D2; /* Blanco cremoso */
+}
+
+footer p{
+	text-align:center;
+}
+
+footer a:link, footer a:visited{
+	color:#F3E9D2; /* Blanco cremoso */
+}
+
+footer a:hover{
+	text-decoration:none;
+}
+
+footer img{
+	width:60px;
+	float: right;
+}
+
+
+

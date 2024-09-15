@@ -1,0 +1,48 @@
+{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Antonio",
+				"apellido": "Barbero",
+				"direccion": "Calle de Los Andes, 45",
+				"_id": "1",
+				"_fechaingreso": "1/11/2012"
+			},
+			{
+				"nombre": "Gustavo",
+				"apellido": "Sanchez",
+				"direccion": "Joyas de Giron, Calle Principal",
+				"telefono": {
+					"_esCelular": "False",
+					"__text": "22566598"
+				},
+				"email": "sc21034@ues.edu.sv",
+				"UrlWebPersonal": "http://xlm.sc21034.tpi",
+				"_id": "2",
+				"_fechaingreso": "14/09/2024"
+			},
+			{
+				"nombre": "Magdiel",
+				"apellido": "Ruiz",
+				"direccion": "Colonia Los Andes, San Marcos",
+				"telefono": {
+					"_esCelular": "False",
+					"__text": "22368989"
+				},
+				"email": "rp21002@ues.edu.sv",
+				"UrlWebPersonal": "http://xlm.rp21002.tpi",
+				"dui": {
+					"_vencido": "True",
+					"__text": "06377732-3"
+				},
+				"isss": "1563312",
+				"afp": {
+					"_sucursal": "Confia",
+					"__text": "146985466615"
+				},
+				"_id": "3",
+				"_fechaingreso": "14/09/2024"
+			}
+		]
+	}
+}

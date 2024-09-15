@@ -1,0 +1,26 @@
+{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Antonio",
+				"apellido": "Barbero",
+				"direccion": "Calle de Los Andes, 45",
+				"_id": "1",
+				"_fechaingreso": "1/11/2012"
+			},
+			{
+				"nombre": "Gustavo",
+				"apellido": "Sanchez",
+				"direccion": "Joyas de Giron, Calle Principal",
+				"telefono": {
+					"_esCelular": "False",
+					"__text": "22566598"
+				},
+				"email": "sc21034@ues.edu.sv",
+				"UrlWebPersonal": "http://xlm.sc21034.tpi",
+				"_id": "2",
+				"_fechaingreso": "14/09/2024"
+			}
+		]
+	}
+}

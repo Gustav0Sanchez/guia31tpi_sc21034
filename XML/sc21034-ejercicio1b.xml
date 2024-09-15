@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="../CSS/ejercicio1b.css" ?>
+<!-- ejemplo1.xml  HS19011 -->
+<fichero>
+  <ficha id="1" fechaingreso="1/11/2012">
+    <nombre>Antonio</nombre>
+    <apellido>Barbero</apellido>
+    <direccion>Calle de Los Andes, 45</direccion>
+  </ficha>
+  
+  <ficha id="2" fechaingreso="14/09/2024">
+    <nombre>Gustavo</nombre>
+    <apellido>Sanchez</apellido>
+    <direccion>Joyas de Giron, Calle Principal</direccion>
+    <telefono esCelular="False">22566598</telefono>
+    <email>hs19011@ues.edu.sv</email>
+    <UrlWebPersonal>http://xlm.sc21034.tpi</UrlWebPersonal>
+  </ficha>
+  
+  <ficha id="3" fechaingreso="14/09/2024">
+    <nombre>Magdiel</nombre>
+    <apellido>Ruiz</apellido>
+    <direccion>Colonia Los Andes, San Marcos</direccion>
+    <telefono esCelular="False">22368989</telefono>
+    <email>rp21002@ues.edu.sv</email>
+    <UrlWebPersonal>http://xlm.rp21002.tpi</UrlWebPersonal>
+    <dui vencido="True">06377732-3</dui>
+    <isss>1563312</isss>
+    <afp sucursal="Confia">146985466615</afp>
+  </ficha>
+</fichero>

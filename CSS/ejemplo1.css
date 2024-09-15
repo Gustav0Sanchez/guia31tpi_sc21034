@@ -1,0 +1,26 @@
+/* ejemplo1.css SC21034 */
+
+fichero {
+	background-color:#2C3E50; /* Azul oscuro elegante */
+}
+
+ficha {
+	background-color:#E74C3C; /* Rojo coral suave */
+	display:block;
+}
+
+nombre {
+	color:#ECF0F1; /* Blanco claro */ 
+	display:inline;
+} 
+
+apellido {
+	color:#F1C40F; /* Amarillo dorado */ 
+	display:inline;
+}
+
+direccion {
+	color:#16A085; /* Verde agua */
+	font-size:0.5cm; 
+	display:none;
+}
